@@ -93,5 +93,5 @@ class HitAndBlowGame:
 
 if __name__ == "__main__":
     # Entry point for the game. Create an instance of the GamePreparation class and start the game.
-    game = GamePreparation()
+    game = HitAndBlowGame()
     game.start_game()
