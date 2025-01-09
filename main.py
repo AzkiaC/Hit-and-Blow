@@ -1,7 +1,7 @@
 import random
 
 
-class GamePreparation:
+class HitAndBlowGame:
     def __init__(self):
         # Initialize the game attributes: answer, guess, and digit count.
         self.answer = []
